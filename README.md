@@ -8,5 +8,5 @@ Technologies utilisées:
 - Angular pour le front
 
 Utilisation:
-- Ouvrir le dossier /back-end dans un terminal et lancer le serveur avec la commande: node server.js
-- Ouvrir la racine du projet sur un terminal et exécuter la commande ng serve
+- Ouvrir le dossier /back-end dans un terminal et lancer le serveur avec la commande: "node main.js"
+- Ouvrir la racine du projet sur un terminal et exécuter la commande "ng serve" pour lancer le serveur d'Angular
