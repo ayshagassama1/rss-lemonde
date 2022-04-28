@@ -1,0 +1,8 @@
+{
+    "*": {
+        "target": "https://www.lemonde.fr/rss/en_continu.xml",
+        "secure": false,
+        "changeOrigin": true,
+        "logLevel": "debug"
+    }
+}
